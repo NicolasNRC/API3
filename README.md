@@ -52,4 +52,4 @@ No terminal:
 No github:
 1) Criar uma nova brach
 2) Digitar os comandos
-3) Criar Pull Request e aprovar
+3) Criar Pull Request e aprova
